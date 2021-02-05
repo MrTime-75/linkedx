@@ -1,0 +1,13 @@
+p {
+  color: white;
+  font-family: 'Courier New', monospace;
+  font-size: 18px;
+}
+   
+#start:hover {
+  filter: contrast(50%);
+}
+    
+button {
+  background-color: lightgrey;
+}
