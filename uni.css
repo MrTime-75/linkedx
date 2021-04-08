@@ -5,7 +5,7 @@ p {
 }
 
 button:hover {
-  filter: contrast(30%);  
+  filter: contrast(60%);  
 }
 
 #start:hover {
