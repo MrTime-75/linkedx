@@ -3,7 +3,11 @@ p {
   font-family: 'Courier New', monospace;
   font-size: 18px;
 }
-   
+
+.button:hover {
+  filter: contrast(50%);  
+}
+
 #start:hover {
   filter: contrast(50%);
 }
